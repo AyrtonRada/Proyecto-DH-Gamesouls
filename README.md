@@ -21,10 +21,6 @@ Nuestro público son jóvenes de entre 16 y 35 años interesados por los videoju
 
 - [Instant-Gaming](https://www.instant-gaming.com/es): Se usó como inspiración para el footer, un diseño centrado que deja espacios equitativos por su buena distribución.
 
-## Trello
-
-[Trello - The Pushers](https://trello.com/b/atlpFJBU/the-pushers)
-
 # Credenciales de usuario
 
 ## Usuario común
